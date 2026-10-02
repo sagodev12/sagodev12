@@ -26,6 +26,5 @@ Ingeniero de Sistemas. Construyo APIs REST y lógica de negocio con Python, Djan
 
 ## Contacto
 
-Abierto a oportunidades como desarrollador backend.
 
 [LinkedIn](https://www.linkedin.com/in/sergio-andr%C3%A9s-garc%C3%ADa-ordo%C3%B1ez-9b8bb0248/) · [sagodev12@gmail.com](mailto:sagodev12@gmail.com)
