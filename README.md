@@ -15,7 +15,7 @@ Ingeniero de Sistemas. Construyo APIs REST y lógica de negocio con Python, Djan
 | Área | Tecnologías |
 |---|---|
 | Backend | Python, Django, Django REST Framework, Redis, Dramatiq |
-| Bases de datos | PostgreSQL, SQL Server, Supabase |
+| Bases de datos | PostgreSQL, SQL Server, Supabase, Snowflake |
 | IA y automatización | LLMs (ChatGPT, Claude), LiveKit, n8n |
 | Frontend | React, Next.js, TypeScript, Tailwind CSS |
 | Calidad y herramientas | pytest, Vitest, Docker, Git, CI/CD |
@@ -33,10 +33,6 @@ Ingeniero de Sistemas. Construyo APIs REST y lógica de negocio con Python, Djan
 Sitio web configurable para carnicerías, en producción para un cliente real. Tiene catálogo, promociones, pedidos por WhatsApp y un panel de administración protegido con Auth0. Está hecho con Next.js, TypeScript y Supabase (PostgreSQL con RLS), con pruebas en Vitest.
 
 *Código privado. Puedo hacer una demo técnica si te interesa.*
-
-## Actividad
-
-![Gráfica de contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=sagodev12&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true)
 
 ## Contacto
 
