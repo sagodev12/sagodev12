@@ -22,9 +22,23 @@ Ingeniero de Sistemas. Construyo APIs REST y lógica de negocio con Python, Djan
 
 ## Proyecto destacado
 
-**[CarnesApp](https://github.com/sagodev12/CarnesApp)**: sitio web configurable para carnicerías con catálogo, promociones, pedidos por WhatsApp y panel de administración protegido con Auth0. Hecho con Next.js, TypeScript y Supabase (PostgreSQL con RLS), con pruebas en Vitest.
+### 🥩 CarnesApp · [surticarnesdelfonce.com](https://www.surticarnesdelfonce.com/)
+
+[![En producción](https://img.shields.io/badge/estado-en%20producción-2ea44f)](https://www.surticarnesdelfonce.com/)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)
+
+Sitio web configurable para carnicerías, en producción para un cliente real. Tiene catálogo, promociones, pedidos por WhatsApp y un panel de administración protegido con Auth0. Está hecho con Next.js, TypeScript y Supabase (PostgreSQL con RLS), con pruebas en Vitest.
+
+*Código privado. Puedo hacer una demo técnica si te interesa.*
+
+## Actividad
+
+![Gráfica de contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=sagodev12&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true)
 
 ## Contacto
 
-
-[LinkedIn](https://www.linkedin.com/in/sergio-andr%C3%A9s-garc%C3%ADa-ordo%C3%B1ez-9b8bb0248/) · [sagodev12@gmail.com](mailto:sagodev12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20García-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-andr%C3%A9s-garc%C3%ADa-ordo%C3%B1ez-9b8bb0248/)
+[![Email](https://img.shields.io/badge/Email-sagodev12%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sagodev12@gmail.com)
